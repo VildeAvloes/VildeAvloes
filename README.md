@@ -1,8 +1,11 @@
-### Hello! I'm Vilde👩‍💻
+# Hello! I'm Vilde👩‍💻
 
 🌞 A junior developer by day.
-🌛 Part-time student in the evenings. 
-📫 Contact me on LinkedIn
+
+🌛 Part-time student in the evenings.
+
+📫 Contact me on my [LinkedIn-profile](https://www.linkedin.com/in/vilde-avloes/)
+
 📍 Living in Norway 
 
 
